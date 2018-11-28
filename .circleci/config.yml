@@ -13,9 +13,17 @@ jobs:
       - checkout
       - run: npm install
       - run: cd android && ./gradlew assembleRelease
+      - run: 
+        name: Creating Android Artifacts
+        command: |
+            echo "my artifact file" > /tmp/artifact-1;
+            mkdir /tmp/artifacts;
+            echo "my artifact files in a dir" > /tmp/artifacts/artifact-2;
       - store_artifacts:      #sau khi chạy thành công, store_artifacts tạo ra file /tmp/artifact-1 và folder /tmp/artifacts
           path: /tmp/artifact-1
           destination: artifact-file
+      - store_artifacts:
+          path: /tmp/artifacts
   ios:
     macos:
       xcode: "9.4.1"
@@ -36,6 +44,13 @@ workflows:
       - ios:
           requires:
             - node
+      - hold:               #Sau khi chạy thành công android, job sẽ dừng lại chờ approval trước khi chạy tiếp hold.
+          type: approval
+          requires:
+            - android
+      - deploy:
+          requires:
+            - hold
 
 # version: 2.1
 # jobs:
