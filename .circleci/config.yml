@@ -28,10 +28,7 @@ jobs:
             mkdir /tmp/artifacts;
             echo "my artifact files in a dir" > /tmp/artifacts/artifact-2;
       - store_artifacts:      #sau khi chạy thành công, store_artifacts tạo ra file /tmp/artifact-1 và folder /tmp/artifacts
-          path: /tmp/artifact-1
-          destination: artifact-file
-      - store_artifacts:
-          path: /tmp/artifacts
+          path: ./android/app/build/outputs
   ios:
     macos:
       xcode: "9.4.1"
