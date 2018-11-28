@@ -22,14 +22,14 @@ steps:
       - checkout
       - run: npm install
       - run: xcodebuild -project ios/TestV12BankingApp.xcodeproj -scheme "TestV12BankingApp" -sdk iphonesimulator -destination 'platform=iOS Simulator,OS=11.4,name=iPhone X'
-workflows:
-  version: 2
-  node-android-ios:
-    jobs:
-      - node
-      - android:
-          requires:
-            - node
-      - ios:
-          requires:
-            - node
+# workflows:
+#   version: 2
+#   node-android-ios:
+#     jobs:
+#       - node
+#       - android:
+#           requires:
+#             - node
+#       - ios:
+#           requires:
+#             - node
