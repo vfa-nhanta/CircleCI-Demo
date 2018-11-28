@@ -4,8 +4,17 @@ jobs:
     docker:
       - image: circleci/node:8
     steps:
+      - restore_cache:                #Kiểm tra file cache tương ứng với package-lock.json
+          keys: 
+            - node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+            - node-v1-{{ .Branch }}-
+            - node-v1-
       - checkout
       - run: npm install
+      - save_cache:                   #Lưu file cache
+          keys: node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+          paths: 
+            - ~/usr/local/lib/node_modules
   android:
     docker:
       - image: circleci/android:api-27-node8-alpha
@@ -43,7 +52,7 @@ workflows:
       - ios:
           requires:
             - node
-      - hold:               #Sau khi chạy thành công android, job sẽ dừng lại chờ approval trước khi chạy tiếp hold.
+      - hold:               #Sau khi chạy thành công android, job sẽ dừng lại chờ approval trước khi chạy tiếp.
           type: approval
           requires:
             - android
