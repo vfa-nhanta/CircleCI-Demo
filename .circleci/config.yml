@@ -21,8 +21,6 @@ jobs:
     steps:
       - checkout
       - run: npm install
-      - run: echo 'export KEYSTORE=${pwd}/signing.jks' >> $BASH_ENV
-      - run: bash .circleci/download.sh
       - run: cd android && ./gradlew assembleRelease
       - store_artifacts:      #sau khi chạy thành công, store_artifacts tạo ra file /tmp/artifact-1 và folder /tmp/artifacts
           path: ./android/app/build/outputs
