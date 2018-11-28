@@ -12,7 +12,7 @@ jobs:
       - checkout
       - run: npm install
       - save_cache:                   #Lưu file cache
-          keys: node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+          key: node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
           paths: 
             - ~/usr/local/lib/node_modules
   android:
