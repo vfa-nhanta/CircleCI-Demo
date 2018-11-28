@@ -1,0 +1,13 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: debian:stretch
+    steps:
+      - checkout
+      - run:
+          name: Test
+          command: echo 1 > 0
+      - run:
+          name: Print the Current Time
+          command: date

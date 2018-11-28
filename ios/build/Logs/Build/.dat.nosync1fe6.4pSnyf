@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>55C42EA5-CF28-4CE9-8821-B61BE43142E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55C42EA5-CF28-4CE9-8821-B61BE43142E7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestV12BankingApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestV12BankingApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TestV12BankingApp with scheme TestV12BankingApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564475718.12594604</real>
+			<key>timeStoppedRecording</key>
+			<real>564475719.91861999</real>
+			<key>title</key>
+			<string>Building project TestV12BankingApp with scheme TestV12BankingApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>55C42EA5-CF28-4CE9-8821-B61BE43142E7</string>
+		</dict>
+		<key>5CBBBA77-7C7B-481F-A79C-90CC7B95B55F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CBBBA77-7C7B-481F-A79C-90CC7B95B55F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestV12BankingApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestV12BankingApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TestV12BankingApp with scheme TestV12BankingApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564475669.14472795</real>
+			<key>timeStoppedRecording</key>
+			<real>564475688.24297094</real>
+			<key>title</key>
+			<string>Building project TestV12BankingApp with scheme TestV12BankingApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5CBBBA77-7C7B-481F-A79C-90CC7B95B55F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

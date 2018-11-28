@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>C4DB3067-38C2-4C66-B894-A64EF8631CAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4DB3067-38C2-4C66-B894-A64EF8631CAE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestV12BankingApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestV12BankingApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TestV12BankingApp with scheme TestV12BankingApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564914211.94442797</real>
+			<key>timeStoppedRecording</key>
+			<real>564914215.417189</real>
+			<key>title</key>
+			<string>Building workspace TestV12BankingApp with scheme TestV12BankingApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C4DB3067-38C2-4C66-B894-A64EF8631CAE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
