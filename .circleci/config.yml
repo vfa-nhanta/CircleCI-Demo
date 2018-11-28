@@ -14,8 +14,7 @@ jobs:
       - run: npm install
       - run: cd android && ./gradlew assembleRelease
       - run: 
-        name: Creating Android Artifacts
-        command: |
+          command: |
             echo "my artifact file" > /tmp/artifact-1;
             mkdir /tmp/artifacts;
             echo "my artifact files in a dir" > /tmp/artifacts/artifact-2;
