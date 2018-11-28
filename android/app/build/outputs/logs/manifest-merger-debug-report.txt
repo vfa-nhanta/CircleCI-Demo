@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-gesture-handler] /Users/nhantran/Git/TestV12BankingApp/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/ea3f4e8f5ca167c9dfaab1232310bc93/AndroidManifest.xml:2:1-15:12
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/nhantran/CircleCI-Demo/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/957f5c5b5ca9a05405e840386e613a35/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e9861e3606fdcd9a571cc753a543c31/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1a49aff755f36a84cde8bad038a65abb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c3467d6216a18972122a628f429cfcff/AndroidManifest.xml:17:1-22:12
@@ -25,83 +25,83 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nhantran/.gradle/cac
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d400981b1e83d21a8754873995c2726e/AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97be3e7e31d8ea67a9e3e8524d72fd41/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c7c44b25bedd3aee3c10dcdee624d708/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:2:5-36
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/ea3f4e8f5ca167c9dfaab1232310bc93/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/ea3f4e8f5ca167c9dfaab1232310bc93/AndroidManifest.xml:11:5-78
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/957f5c5b5ca9a05405e840386e613a35/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/957f5c5b5ca9a05405e840386e613a35/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/ea3f4e8f5ca167c9dfaab1232310bc93/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/ea3f4e8f5ca167c9dfaab1232310bc93/AndroidManifest.xml:13:5-20
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/957f5c5b5ca9a05405e840386e613a35/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/957f5c5b5ca9a05405e840386e613a35/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c8abf9d7fec163ae7b2c334b4546f941/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c8abf9d7fec163ae7b2c334b4546f941/AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b36a40745f1bb9f59c830bda4feae367/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b36a40745f1bb9f59c830bda4feae367/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:8:7-38
 activity#com.testv12bankingapp.MainActivity
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-gesture-handler] /Users/nhantran/Git/TestV12BankingApp/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/nhantran/Git/TestV12BankingApp/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/ea3f4e8f5ca167c9dfaab1232310bc93/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/ea3f4e8f5ca167c9dfaab1232310bc93/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/nhantran/CircleCI-Demo/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/nhantran/CircleCI-Demo/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/957f5c5b5ca9a05405e840386e613a35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/957f5c5b5ca9a05405e840386e613a35/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e9861e3606fdcd9a571cc753a543c31/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e9861e3606fdcd9a571cc753a543c31/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1a49aff755f36a84cde8bad038a65abb/AndroidManifest.xml:20:5-44
@@ -138,19 +138,19 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nhantran/.gradle/cache
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97be3e7e31d8ea67a9e3e8524d72fd41/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c7c44b25bedd3aee3c10dcdee624d708/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/nhantran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c7c44b25bedd3aee3c10dcdee624d708/AndroidManifest.xml:20:5-44
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/nhantran/Git/TestV12BankingApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/nhantran/CircleCI-Demo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
